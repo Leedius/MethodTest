@@ -5,69 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="461ffcdd-2fc1-4fd7-8c5e-518c3b577932" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_17_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_19_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex1_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_1_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_2_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_4_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_5_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_6_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex2_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_1_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_2_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_3_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_4_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_6_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_8_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example/Ex3_9_다른풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Ex1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Method01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Method02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Method03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Method04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/dev/workspace/MethodTest"
+    "last_opened_file_path": "D:/dev/workspace/FirstProject"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -111,6 +49,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674617188704</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1674721618468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674721618468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
